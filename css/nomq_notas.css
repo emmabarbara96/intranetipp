@@ -1,0 +1,82 @@
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 562px;
+		padding-bottom: 27px;
+		max-width: 960px;
+	}
+
+	#pu762
+	{
+		width: 95.42%;
+		margin-left: 2.5%;
+	}
+
+	#u762
+	{
+		margin-top: 4px;
+		width: 18.78%;
+	}
+
+	#u1161-4
+	{
+		min-height: 29px;
+		width: 8.41%;
+		left: 91.6%;
+	}
+
+	#pu1665
+	{
+		margin-top: 9px;
+		width: 49.38%;
+		margin-left: 48.55%;
+	}
+
+	#u1665
+	{
+		margin-top: 8px;
+		width: 24.9%;
+	}
+
+	#u1679
+	{
+		margin-top: 8px;
+		width: 24.9%;
+		left: 24.9%;
+	}
+
+	#u1672
+	{
+		margin-top: 8px;
+		width: 25.11%;
+		left: 49.79%;
+	}
+
+	#u1657
+	{
+		width: 25.11%;
+		left: 74.9%;
+	}
+
+	#u1559
+	{
+		margin-top: 16px;
+		width: 83.23%;
+	}
+
+	#u1556-4
+	{
+		min-height: 14px;
+		margin-top: 69px;
+		width: 95.84%;
+	}
+

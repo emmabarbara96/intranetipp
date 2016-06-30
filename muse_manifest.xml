@@ -1,0 +1,79 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.intranet.ipp.pe" resolutions="1x" timestamp="1466715769271">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="master_a-p_g_-maestra.css" crc="4197698078" ref="notas:inicio:horarios:pagos:bolsa-de-trabajo"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="4181803514" ref="notas:inicio:horarios:pagos:bolsa-de-trabajo"/>
+    <file name="notas.css" crc="52401486" ref="notas"/>
+    <file name="nomq_notas.css" crc="195860599" ref="notas"/>
+    <file name="inicio.css" crc="3794209916" ref="inicio"/>
+    <file name="nomq_inicio.css" crc="108267010" ref="inicio"/>
+    <file name="index.css" crc="4133579431" ref="index"/>
+    <file name="nomq_index.css" crc="480348712" ref="index"/>
+    <file name="horarios.css" crc="329182393" ref="horarios"/>
+    <file name="nomq_horarios.css" crc="4148905460" ref="horarios"/>
+    <file name="pagos.css" crc="258931877" ref="pagos"/>
+    <file name="nomq_pagos.css" crc="3910834848" ref="pagos"/>
+    <file name="bolsa-de-trabajo.css" crc="258931877" ref="bolsa-de-trabajo"/>
+    <file name="nomq_bolsa-de-trabajo.css" crc="3910834848" ref="bolsa-de-trabajo"/>
+  </folder>
+  <folder name="fonts">
+    <file name="chokoshtroko-webfont.woff" crc="3968610166"/>
+    <file name="chokoshtroko-webfont.eot" crc="499883696"/>
+    <file name="chokoshtroko-webfont.svg" crc="220579951"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:horarios:notas:bolsa-de-trabajo:pagos:inicio"/>
+    <file name="museutils.js" crc="3790713428" ref="index:horarios:notas:bolsa-de-trabajo:pagos:inicio"/>
+    <file name="whatinput.js" crc="84559013" ref="index:horarios:notas:bolsa-de-trabajo:pagos:inicio"/>
+    <file name="pie.js" crc="3827607177" ref="index:horarios"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:horarios:notas:bolsa-de-trabajo:pagos:inicio"/>
+    <file name="jquery.museresponsive.js" crc="3895133147" ref="index:horarios:notas:bolsa-de-trabajo:pagos:inicio"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="horarios:notas:bolsa-de-trabajo:pagos:inicio"/>
+    <file name="webpro.js" crc="329496574" ref="horarios:inicio"/>
+    <file name="musewpdisclosure.js" crc="4234230767" ref="horarios"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="inicio"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="inicio"/>
+    <file name="touchswipe.js" crc="497316881" ref="inicio"/>
+  </folder>
+  <folder name="images">
+    <file name="students.jpg" crc="3903282015" seo="true" ref="index"/>
+    <file name="logo-u723.png" crc="4270476881" ref="index"/>
+    <file name="students-crop-u805.jpg" crc="4118820697" ref="index"/>
+    <file name="logo-u7232.png" crc="198391907" ref="index"/>
+    <file name="students-crop-u8052.jpg" crc="279942599" ref="index"/>
+    <file name="logo-u7233.png" crc="3449803" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:horarios:notas:bolsa-de-trabajo:pagos:inicio"/>
+    <file name="31dc03_42eff44a44d3afa84559ecbd206f3bafpng_1024.jpg" crc="3879609357" ref="horarios:notas:bolsa-de-trabajo:pagos:inicio"/>
+    <file name="svg-pegado-41979x172.svg" crc="336076184" ref="horarios:notas:bolsa-de-trabajo:pagos:inicio"/>
+    <file name="svg pegado 41979x172_poster_.png" crc="478515875" ref="horarios"/>
+    <file name="horaa.png" crc="262098090" seo="true" ref="horarios:notas:bolsa-de-trabajo:pagos:inicio"/>
+    <file name="notaas.png" crc="4122852848" seo="true" ref="horarios:notas:bolsa-de-trabajo:pagos:inicio"/>
+    <file name="pagoss.png" crc="116259935" seo="true" ref="horarios:notas:bolsa-de-trabajo:pagos:inicio"/>
+    <file name="bolsa.png" crc="3979160875" seo="true" ref="horarios:notas:bolsa-de-trabajo:pagos:inicio"/>
+    <file name="lunes.png" crc="39110266" seo="true" ref="horarios"/>
+    <file name="u1161-4.png" crc="479923518" ref="horarios:notas:bolsa-de-trabajo:pagos:inicio"/>
+    <file name="lunes259x81.png" crc="3764347284" seo="true" ref="horarios"/>
+    <file name="lunes259x82.png" crc="3764347284" seo="true" ref="horarios"/>
+    <file name="notas.png" crc="4243118507" seo="true" ref="notas"/>
+    <file name="notas267x140.png" crc="4271205796" seo="true" ref="notas"/>
+    <file name="04_galeria_master_de_diseno_grafico_intensivo_iedmaster.jpg" crc="102253075" seo="true" ref="inicio"/>
+    <file name="audiovisual.jpg" crc="54686599" seo="true" ref="inicio"/>
+    <file name="curso2.jpg" crc="4211275468" seo="true" ref="inicio"/>
+    <file name="lap2.jpg" crc="391726393" seo="true" ref="inicio"/>
+    <file name="04_galeria_master_de_diseno_grafico_intensivo_iedmaster71x45.jpg" crc="3920873418" seo="true" ref="inicio"/>
+    <file name="audiovisual-crop-u2197.jpg" crc="73602054" ref="inicio"/>
+    <file name="curso268x45.jpg" crc="26667053" seo="true" ref="inicio"/>
+    <file name="lap268x45.jpg" crc="4251552050" seo="true" ref="inicio"/>
+    <file name="loading.gif" crc="3815509949" ref="inicio"/>
+    <file name="04_galeria_master_de_diseno_grafico_intensivo_iedmaster44x28.jpg" crc="497319689" seo="true" ref="inicio"/>
+    <file name="audiovisual-crop-u21972.jpg" crc="273366951" ref="inicio"/>
+    <file name="curso242x28.jpg" crc="285308802" seo="true" ref="inicio"/>
+    <file name="lap242x28.jpg" crc="69276715" seo="true" ref="inicio"/>
+  </folder>
+  <file name="index.html" crc="134602570" seo="true" mt="1465508040539" redirect="true"/>
+  <file name="horarios.html" crc="4166515949" seo="true" mt="1466715676123" redirect="true"/>
+  <file name="notas.html" crc="3956683577" seo="true" mt="1466715676123" redirect="true"/>
+  <file name="bolsa-de-trabajo.html" crc="166375800" seo="true" mt="1466715676123" redirect="true"/>
+  <file name="pagos.html" crc="104895194" seo="true" mt="1466715676123" redirect="true"/>
+  <file name="inicio.html" crc="3938092569" seo="true" mt="1466715750070" redirect="true"/>
+</manifest>

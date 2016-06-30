@@ -1,0 +1,288 @@
+.version.notas /* version checker */
+{
+	color: #000003;
+	background-color: #1F954E;
+}
+
+@font-face
+{
+	font-family: '__chokoshtroko_5';
+	src: url('../fonts/chokoshtroko-webfont.eot');
+	src: local('☺'), url('../fonts/chokoshtroko-webfont.woff') format('woff'), url('../fonts/chokoshtroko-webfont.svg') format('svg');
+	font-weight: 500;
+	font-style: normal;
+}
+
+#page
+{
+	width: 100%;
+	border-color: #000000;
+	margin-right: auto;
+	padding-top: 20px;
+	z-index: 1;
+	border-width: 0px;
+	margin-left: auto;
+	background: transparent url("../images/31dc03_42eff44a44d3afa84559ecbd206f3bafpng_1024.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u762
+{
+	z-index: 2;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u760
+{
+	z-index: 3;
+	width: 100%;
+}
+
+#u1161-4
+{
+	z-index: 4;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1665
+{
+	z-index: 14;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u1679
+{
+	z-index: 18;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1672
+{
+	z-index: 16;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1657
+{
+	z-index: 12;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u1559
+{
+	z-index: 20;
+	background-color: transparent;
+	position: relative;
+	margin-left: 8.44%;
+}
+
+#u1556-4
+{
+	z-index: 8;
+	position: relative;
+	margin-left: 20px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+}
+
+#u1559_img,#u1665_img,#u1679_img,#u1672_img,#u1657_img
+{
+	width: 100%;
+}
+
+@media (min-width: 321px)
+{
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 562px;
+		padding-bottom: 27px;
+		max-width: 960px;
+	}
+
+	#pu762
+	{
+		width: 95.42%;
+		margin-left: 2.5%;
+	}
+
+	#u762
+	{
+		margin-top: 4px;
+		width: 18.78%;
+	}
+
+	#u1161-4
+	{
+		min-height: 29px;
+		width: 8.41%;
+		left: 91.6%;
+	}
+
+	#pu1665
+	{
+		margin-top: 9px;
+		width: 49.38%;
+		margin-left: 48.55%;
+	}
+
+	#u1665
+	{
+		margin-top: 8px;
+		width: 24.9%;
+	}
+
+	#u1679
+	{
+		margin-top: 8px;
+		width: 24.9%;
+		left: 24.9%;
+	}
+
+	#u1672
+	{
+		margin-top: 8px;
+		width: 25.11%;
+		left: 49.79%;
+	}
+
+	#u1657
+	{
+		width: 25.11%;
+		left: 74.9%;
+	}
+
+	#u1559
+	{
+		margin-top: 16px;
+		width: 83.23%;
+	}
+
+	#u1556-4
+	{
+		min-height: 14px;
+		margin-top: 69px;
+		width: 95.84%;
+	}
+}
+
+@media (max-width: 320px)
+{
+	/*
+
+*/
+
+	#muse_css_mq
+	{
+		background-color: #000140;
+	}
+
+	#bp_320.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 440px;
+		padding-bottom: 20px;
+		max-width: 320px;
+	}
+
+	#pu762
+	{
+		width: 87.5%;
+		margin-left: 6.25%;
+	}
+
+	#u762
+	{
+		width: 35.72%;
+	}
+
+	#u1161-4
+	{
+		width: 14.65%;
+		left: 85.36%;
+	}
+
+	#pu1665
+	{
+		margin-top: 19px;
+		width: 82.82%;
+		margin-left: 8.44%;
+	}
+
+	#u1665
+	{
+		margin-top: 4px;
+		width: 23.4%;
+	}
+
+	#u1679
+	{
+		margin-top: 4px;
+		width: 23.4%;
+		left: 25.67%;
+	}
+
+	#u1672
+	{
+		margin-top: 4px;
+		width: 23.4%;
+		left: 50.95%;
+	}
+
+	#u1657
+	{
+		width: 23.4%;
+		left: 76.61%;
+	}
+
+	#u1559
+	{
+		margin-top: 63px;
+		width: 83.13%;
+	}
+
+	#u1556-4
+	{
+		min-height: 10px;
+		margin-top: 143px;
+		width: 87.5%;
+	}
+
+	body
+	{
+		min-width: 320px;
+	}
+
+	#u1161-4_img
+	{
+		width: 100%;
+	}
+}
+

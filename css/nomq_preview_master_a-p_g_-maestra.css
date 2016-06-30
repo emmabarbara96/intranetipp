@@ -1,0 +1,32 @@
+	#u1161-4
+	{
+		background-color: #FFFFFF;
+		color: #616161;
+		font-size: 25px;
+		line-height: 30px;
+		text-align: center;
+		letter-spacing: 1px;
+		font-family: '__chokoshtroko_5';
+		font-weight: 500;
+	}
+
+	#u1161-4::before
+	{
+		content: "";
+		position: absolute;
+		pointer-events: none;
+		z-index: -1;
+		top: 0px;
+		left: 0px;
+		bottom: 0px;
+		right: 0px;
+		box-shadow: inset 3px 3px 4px rgba(255,255,255,0.75), inset -3px -3px 4px rgba(0,0,0,0.75);
+	}
+
+	#u1556-4
+	{
+		font-size: 12px;
+		line-height: 14px;
+	}
+
+
